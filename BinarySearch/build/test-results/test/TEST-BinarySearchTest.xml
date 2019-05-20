@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinarySearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-19T17:03:26" hostname="DESKTOP-BATPDDL" time="151.757">
+  <properties/>
+  <testcase name="searchFail()" classname="BinarySearchTest" time="151.757"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

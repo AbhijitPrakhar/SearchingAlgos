@@ -1,0 +1,4 @@
+rootProject.name = 'SearchingAlgos'
+include 'BinarySearch'
+include 'JumpSearch'
+
